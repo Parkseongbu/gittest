@@ -2,4 +2,5 @@
 testA 에서 충돌날거임 testA 에서 작성
 
 testA 에서  충돌날거임 testB 에서 작성
+testA에서 다른 사람이 먼저 내용 작업 후 push 함
 
